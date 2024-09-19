@@ -1,7 +1,7 @@
 # khopets-shell
 Shell to connect P2P interface
 
-(Khopets)[khopets.jpg]
+[!KHOPETS](khopets.png)
 
 ## Installation
 
