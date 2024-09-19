@@ -1,7 +1,7 @@
 # khopets-shell
 Shell to connect P2P interface
 
-[!KHOPETS](khopets.png)
+[!KHOPETS]([khopets.png](https://github.com/AdjiDev/khopets-shell/blob/main/khopets.png))
 
 ## Installation
 
