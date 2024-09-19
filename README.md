@@ -5,6 +5,7 @@ Shell to connect P2P interface
 
 ## Installation
 
+> Basic
 1. Clone this repository to your local machine:
     ```bash
     git clone https://github.com/adjidev/khopets-shell.git
@@ -22,10 +23,21 @@ Shell to connect P2P interface
 
 > Python P2P shell
 1. Same as above
+   ```bash
+    git clone https://github.com/adjidev/khopets-shell.git
    ```
+   ```bash
+   cd khopets-shell
+   ```
+   ```bash
    pip install colorama && python backdoor_shell.py
    ```
 
+> Termux CMD
+```
+pkg update -y && pkg upgrade -y && pkg install git python && git clone https://github.com/adjidev/khopets-shell.git && cd khopets-shell && python backdoor_shell.py
+```
+   
 ## Usage
 
 1. Open the web interface in your browser.
