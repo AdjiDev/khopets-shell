@@ -30,12 +30,12 @@ Shell to connect P2P interface
    cd khopets-shell
    ```
    ```bash
-   pip install colorama pycryptodome && python backdoor_shell.py
+   pip install colorama pycryptodome && python backdoor_p2p.py
    ```
 
 > Termux CMD
 ```
-pkg update -y && pkg upgrade -y && pkg install git python && git clone https://github.com/adjidev/khopets-shell.git && cd khopets-shell && pip install colorama pycryptodome && python backdoor_shell.py
+pkg update -y && pkg upgrade -y && pkg install git python && git clone https://github.com/adjidev/khopets-shell.git && cd khopets-shell && pip install colorama pycryptodome && python backdoor_p2p.py
 ```
    
 ## Usage
