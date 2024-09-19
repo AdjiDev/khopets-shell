@@ -1,11 +1,7 @@
 # khopets-shell
 Shell to connect P2P interface
 
-## Features
-
-- RGB gradient banner
-- Command execution via web interface
-- Simple authentication (static key)
+(Khopets)[khopets.jpg]
 
 ## Installation
 
@@ -22,6 +18,13 @@ Shell to connect P2P interface
 3. Ensure your web server (e.g., Apache or Nginx) is configured to serve PHP files from this directory.
 
 4. Access the `shell.php` file via your web browser.
+
+
+> Python P2P shell
+1. Same as above
+   ```
+   pip install colorama && python backdoor_shell.py
+   ```
 
 ## Usage
 
